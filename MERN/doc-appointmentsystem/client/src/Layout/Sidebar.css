@@ -1,0 +1,10 @@
+.ant-menu-item-selected {
+    background-color:#015249;
+    width: 500px;
+  }
+  .menu-style {
+    min-height: 300vh;
+  position: relative;
+  z-index: 30;
+
+    }

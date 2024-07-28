@@ -1,0 +1,14 @@
+.top-heading{
+    font-size: 24px;
+    font-weight: 500;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #000;
+    font-weight: bold;
+    background-color:#57BC90;
+    /* margin-bottom: 20px; */
+  }
+  
